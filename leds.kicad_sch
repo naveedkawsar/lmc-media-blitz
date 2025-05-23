@@ -560,7 +560,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 92.71) (xy 69.85 92.71)
+			(xy 64.77 92.71) (xy 69.85 92.71)
 		)
 		(stroke
 			(width 0)
@@ -580,7 +580,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 85.09) (xy 69.85 85.09)
+			(xy 64.77 85.09) (xy 69.85 85.09)
 		)
 		(stroke
 			(width 0)
@@ -688,16 +688,6 @@
 		)
 		(uuid "0f0b02a2-9668-4615-81ce-8ab648232b85")
 	)
-	(label "LED1_CKI"
-		(at 60.96 85.09 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "22cb7df2-36ff-4e54-9fdb-392f1fa1296f")
-	)
 	(label "LED2_SDI"
 		(at 91.44 92.71 0)
 		(effects
@@ -768,19 +758,9 @@
 		)
 		(uuid "d19313bc-8e4f-45e6-be02-a2eef6a55772")
 	)
-	(label "LED1_SDI"
-		(at 60.96 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e0fafaaa-5156-4c71-8af5-08e3ba3732df")
-	)
 	(hierarchical_label "SDI"
 		(shape input)
-		(at 59.69 92.71 180)
+		(at 64.77 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -791,7 +771,7 @@
 	)
 	(hierarchical_label "CKI"
 		(shape input)
-		(at 59.69 85.09 180)
+		(at 64.77 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
