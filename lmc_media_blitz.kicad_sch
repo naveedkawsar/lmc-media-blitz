@@ -7985,6 +7985,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFPN" "LPC804M101JHI33"
+			(at 123.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "d6f0ce9b-9207-4ed4-9b40-8915a7113b2b")
 		)
